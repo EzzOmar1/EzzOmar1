@@ -3,11 +3,11 @@
 <img alt="Wave" src="https://i.imgur.com/biO5vui.gif" width='40' align="left"/><h2>Hey there! I'm Ezz</h2>
 
 # 👨‍🔧 About Me
-👨‍🎓I'm a 15-year-old High School student with an Egyptian Nationality.
+👨‍🎓I'm a 16-year-old High School student with an Egyptian Nationality.
 
-⌨️ I'm Interested in Computer Science, and 🤖 Machine Learning 
+⌨️ I'm Interested in Software and Website Developement, and 🤖 Machine Learning 
 
-🖥️ I have been learning scripting languages like JavaScript and went through the libaries like TypeScript, DiscordJS for Discord Chat bots. 
+🖥️ I have been learning scripting languages including JavaScript, TypeScript and studied many libraries like React JS and Next JS.
 
 🖥️ Also learned the famous standard markup language HTML and ofcourse sheet style language CSS 
 
